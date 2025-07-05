@@ -1,0 +1,49 @@
+body {
+  font-family: Arial;
+  background-color: black;
+}
+.calculation {
+  color: white;
+  font-size: 45px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.js-button {
+  background-color: rgb(51,51,51);
+  color: white;
+  border-radius: 60px;
+  border: none;
+  font-family: Arial;
+  font-size: 25px;
+  margin-right: 5px;
+  padding: 15px 20px;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+}
+.js-orange {
+  background-color: orange;
+  color: white;
+  border-radius: 60px;
+  border: none;
+  font-family: Arial;
+  font-size: 25px;
+  margin-right: 5px;
+  padding: 15px 20px;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+}
+.js-button2 {
+  background-color: rgb(51,51,51);
+  color: white;
+  border-radius: 60px;
+  border: none;
+  font-family: Arial;
+  font-size: 18px;
+  margin-right: 5px;
+  padding: 15px 9px;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+}
